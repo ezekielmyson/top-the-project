@@ -14,3 +14,8 @@ This project is in relation to the odin project foundation course last lesson (p
     ./css/randinfo.css ---> css for the random info and etc
 
     ./index.html ---> index file for the landing page
+
+> > > The resources I used in this project for free are grab from the below sources
+
+logo-svg --> https://pixabay.com/vectors/logo-origami-bird-flying-blue-1913689/
+Roboto fonts --> https://fonts.google.com/selection?query=Roboto
