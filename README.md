@@ -15,7 +15,9 @@ This project is in relation to the odin project foundation course last lesson (p
 
     ./index.html ---> index file for the landing page
 
-<strong>The resources I used in this project for free are grab from the below sources</strong>
+<strong style="font-size: 24px">The resources I used in this project for free are grab from the below sources</strong>
 
-logo-svg --> https://pixabay.com/vectors/logo-origami-bird-flying-blue-1913689/
-Roboto fonts --> https://fonts.google.com/selection?query=Roboto
+<ul>
+<li>logo-svg --> https://pixabay.com/vectors/logo-origami-bird-flying-blue-1913689/</li>
+<li>Roboto fonts --> https://fonts.google.com/selection?query=Roboto</li>
+</ul>
