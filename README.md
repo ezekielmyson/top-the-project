@@ -9,11 +9,12 @@ This project is in relation to the odin project foundation course last lesson (p
 </p>
 <h2>Detail information about the files in this project.</h2>
 <p><strong>Files and Directories</strong></p>
-
+<pre>
 > > > ./css/general.css ---> css for the header and footer as well as other element declaration
 > > > ./css/hero.css ---> css for the hero section
 > > > ./css/randinfo.css ---> css for the random info and etc
 > > > ./index.html ---> index file for the landing page
+</pre>
 
 <p><strong>The resources I used in this project for free are grab from the below sources</strong></p>
 <ul>
@@ -21,4 +22,4 @@ This project is in relation to the odin project foundation course last lesson (p
 <li>Roboto fonts --> https://fonts.google.com/selection?query=Roboto</li>
 </ul>
 
-> > > Please have fun!
+<p>Please have fun!</p>
