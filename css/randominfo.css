@@ -107,4 +107,5 @@
     font-weight: 700;
     border-radius: 1rem;
     border: .2rem solid var(--white-low);
+    cursor: pointer;
 }

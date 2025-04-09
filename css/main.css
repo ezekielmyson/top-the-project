@@ -47,4 +47,5 @@ main button {
   font-weight: bold;
   border: none;
   border-radius: 1rem;
+  cursor: pointer;
 }
