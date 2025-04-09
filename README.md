@@ -24,8 +24,8 @@ This project is in relation to the odin project foundation course last lesson (p
 > [!NOTE]
 > The resources I used in this project is free and grab from the below sources. Thank you guys and big shout out to them!
 
-My initial logo used is this [Picture of Origami](https://pixabay.com/vectors/logo-origami-bird-flying-blue-1913689).
-The fonts I used in this project is the [Roboto Fonts](ttps://fonts.google.com/selection?query=Roboto).
+My initial logo used is this [Picture of Origami](https://pixabay.com/vectors/logo-origami-bird-flying-blue-1913689).\
+The fonts I used in this project is the [Roboto Fonts](https://fonts.google.com/selection?query=Roboto).\
 And the SVG's am using in this project is from [Heroicons](https://heroicons.com/solid).
 
 **_Please have fun!_**
