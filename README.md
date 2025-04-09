@@ -28,4 +28,7 @@ My initial logo used is this [Picture of Origami](https://pixabay.com/vectors/lo
 The fonts I used in this project is the [Roboto Fonts](https://fonts.google.com/selection?query=Roboto).\
 And the SVG's am using in this project is from [Heroicons](https://heroicons.com/solid).
 
+> [!IMPORTANT]
+> Finished the project on April 10, 2025
+
 **_Please have fun!_**
