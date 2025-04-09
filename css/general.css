@@ -88,9 +88,14 @@ header ul {
   display: flex;
   align-items: center;
   gap: 2rem;
+  list-style: none;
 }
 
 header ul li {
   font-size: 1.8rem;
   color: var(--white-lower);
+}
+
+header ul a li:hover {
+  text-decoration: underline;
 }
