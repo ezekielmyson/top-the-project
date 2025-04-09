@@ -1,77 +1,86 @@
 /* Reset some of the defaults */
 
 * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    /* Reset default font size for easy rem calculations */
-    font-size: 10px;
-    font-family: Roboto, monospace;
-    letter-spacing: .05rem;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  /* Reset default font size for easy rem calculations */
+  font-size: 10px;
+  font-family: Roboto, monospace;
+  /* Declare variables */
+  --dark-blue: #1f2937;
+  --main-blue: #3882f6;
+  --white-low: #f2f7f2;
+  --white-lower: #e5e7eb;
+}
 
-    /* Declare variables */
-    --dark-blue: #1F2937;
-    --white-low: #f2f7f2;
+h1 {
+  font-size: 3.6rem;
+  font-weight: 900;
+  color: var(--dark-blue);
+  padding: 0;
+  margin: 0;
 }
 
 @font-face {
-    font-family: Roboto;
-    src: url(../assets/Roboto-VariableFont_wdth\,wght.ttf);
+  font-family: "Roboto";
+  src: url(../assets/Roboto.ttf);
 }
 
 a {
-    text-decoration: none;
-    color: var(--white-low)
+  text-decoration: none;
+  color: var(--white-low);
 }
 
 /* Header css goes here */
 .main-wrapper {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--dark-blue);
 }
 
 header,
 footer {
-    display: flex;
-    box-sizing: border-box;
-    background-color: var(--dark-blue);
-    color: var(--white-low);
-    height: 70px;
-    margin: 0 30rem;
+  display: flex;
+  box-sizing: border-box;
+  color: var(--white-low);
+  height: 70px;
+  width: calc(100vw - 45rem);
+  margin: 0 auto;
 }
 
 header {
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem 3rem;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .logo-wrapper {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    gap: 2rem;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
 
 .logo-wrapper .logo-img {
-    width: 50px;
-    color: var(--white-low);
+  width: 50px;
+  color: var(--white-low);
 }
 
 .logo-wrapper span {
-    font-size: 1.8rem;
-    font-weight: 900;
-    letter-spacing: .3rem;
+  font-size: 2.2rem;
+  font-weight: 900;
+  letter-spacing: 0.2rem;
 }
 
 header ul {
-    display: flex;
-    align-items: center;
-    gap: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
 }
 
 header ul li {
-    font-size: 1.4rem;
+  font-size: 1.8rem;
+  color: var(--white-lower);
 }
