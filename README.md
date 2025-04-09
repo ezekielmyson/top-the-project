@@ -1,6 +1,6 @@
 # top-the-project
 
-Author : zxdinay
+Author : larakielcode
 Date started : April 9, 2025
 
 # My Landing Page Project - The Project Odin
