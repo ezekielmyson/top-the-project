@@ -1,4 +1,46 @@
 .random-container {
-    background-color: red;
+    display: flex;
+    flex-direction: column;
+    width: calc(100vw - 45rem);
+    margin: 0 auto;
+}
 
+.random-container h2 {
+    font-size: 3.6rem;
+    font-weight: 900;
+    color: var(--dark-blue);
+    padding: 5rem 0;
+    margin: 0;
+    text-align: center;
+}
+
+.random-info-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    gap: 5rem;
+    padding: 0 10rem;
+}
+
+.random-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.random-info>img {
+    width: 25rem;
+    height: 25rem;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    flex-shrink: 0;
+    border-radius: 1.5rem;
+    border: 5px solid var(--main-blue);
+}
+
+.random-info p {
+    text-align: center;
+    padding: 0 .1rem;
+    margin-top: 1rem;
+    font-size: 1.8rem;
 }
