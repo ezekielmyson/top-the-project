@@ -25,17 +25,18 @@ main {
 }
 
 .main-left {
-  margin-right: 1rem;
+  margin-right: 10rem;
 }
 
-.main-left p {
-  padding-right: 35rem;
+.main-left h1 {
+  margin-bottom: 2rem;
 }
 
 main p {
   font-size: 1.8rem;
   color: var(--white-lower);
   margin-bottom: 1.5rem;
+  line-height: 1.7;
 }
 
 main button {
