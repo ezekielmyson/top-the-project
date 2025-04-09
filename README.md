@@ -16,10 +16,11 @@ This project is in relation to the odin project foundation course last lesson (p
 > > > ./index.html ---> index file for the landing page
 </pre>
 
-<p><strong>The resources I used in this project for free are grab from the below sources</strong></p>
+<p><strong>The resources I used in this project for free are grab from the below sources</strong>. Thank you guys!</p>
 <ul>
 <li>logo-svg --> https://pixabay.com/vectors/logo-origami-bird-flying-blue-1913689/</li>
 <li>Roboto fonts --> https://fonts.google.com/selection?query=Roboto</li>
+<li>SVG's --> https://heroicons.com/solid</li>
 </ul>
 
 <p>Please have fun!</p>
