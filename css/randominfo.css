@@ -44,3 +44,30 @@
     margin-top: 1rem;
     font-size: 1.8rem;
 }
+
+/* Testimonials css goes here */
+.testimonials {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    margin: 10rem auto 0 auto;
+    background-color: var(--white-lower);
+}
+
+.testimonials p:first-child {
+    font-size: 3.6rem;
+    font-style: italic;
+    font-weight: 300;
+    color: var(--dark-blue);
+    padding: 10rem 35rem 0 35rem;
+    text-align: center;
+}
+
+.testimonials p:nth-child(2) {
+    text-align: right;
+    padding: 0 40rem 10rem 0;
+    font-size: 2.4rem;
+    font-weight: 900;
+    color: var(--dark-blue);
+}
